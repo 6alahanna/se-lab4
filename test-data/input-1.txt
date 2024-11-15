@@ -1,2 +1,6 @@
 GT4500,10,1,10,1 #100% hibarátás-> nem tudja kilőni
 TORPEDO,ALL
+GT4500,2,0,2,0
+TORPEDO,ALL
+TORPEDO,ALL
+TORPEDO,ALL                             
